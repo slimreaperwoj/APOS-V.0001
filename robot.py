@@ -49,7 +49,15 @@ class APOSRobot:
                 "sociability": 1,
                 "confidence": 2,
                 "trust": 1,
+
+        
             }
+
+        "insulted": {
+                "trust": -5
+            "curiosity": -2
+        }
+        
 
             
         }
